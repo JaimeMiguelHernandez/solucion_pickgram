@@ -1,5 +1,5 @@
 # solucion_pickgram
-Código con mi solución (NO PERFECTA) a la prueba de la empresa Pickgram. 
+Código con mi solución de la primera parte de la prueba de la empresa Pickgram. 
 
 Primera parte: Consiste en la carpeta test-master con el enunciado del README. Se dejan alrededor de tres días. Luego Pickgram evalua el código con su propio tester.
 
